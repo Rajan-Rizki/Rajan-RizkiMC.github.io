@@ -1,0 +1,264 @@
+body{
+    margin: px;
+    padding: px;
+}
+
+.navbar ul li{
+    text-decoration: none;
+    align-items: center;
+    color: white;
+}
+
+img{
+    margin-right: 40px;
+    padding-left: 85px;
+}
+
+.left{
+    padding: 3px;
+    display: flex;
+}
+
+.navbar .left{
+    display: flex;
+}
+
+.navbar ul li a{
+    font-size: 13px;
+    margin-right: 10px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+li a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+}
+
+ul li{color: white;}
+
+.nav2{
+    margin-left: 1300px;
+    margin-top: -50px;
+}
+
+img{
+    margin-top: -100px;
+}
+
+/* belownav */
+
+.konten{
+    background-image: url('Highlight-Multi-Canvas-Bing-AI-No-Text_VP5-1920x600.png');
+    height: 500px;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    position: absolute;
+    color: white;
+}
+
+.konten a{
+    color: white;
+    background-color: darkcyan;
+}
+
+.conta{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+.conti{
+    margin-left: 800px;
+    margin-top: -77px;
+}
+
+.contu{
+    margin-left: 1100px;
+    margin-top: -85px;
+}
+
+.conta h3 a{
+    color: rgb(52, 110, 187);
+    justify-content: center;
+}
+.conti h3 a{
+    color: rgb(52, 110, 187);
+    justify-content: center;
+}
+.contu h3 a{
+    color: rgb(52, 110, 187);
+}
+
+.split1 a{
+    text-decoration: none;
+    color: rgb(52, 110, 187);
+}
+
+.split2 a{
+    color: rgb(52, 110, 187);
+    text-decoration: none;
+}
+.split3 a{
+    color: rgb(52, 110, 187);
+    text-decoration: none;
+}
+.split4 a{
+    color: rgb(52, 110, 187);
+    text-decoration: none;
+}
+
+.split1 p{
+    margin-left: 80px;
+}
+.split1 h2{
+    margin-left: 80px;
+}
+.split1 h4{
+    margin-left: 80px;
+}
+
+.split2 p{
+    margin-left: 80px;
+}
+.split2 h2{
+    margin-left: 80px;
+}
+.split2 h4{
+    margin-left: 80px;
+}
+
+.split3 h2{
+    margin-left: 85px;
+}
+.split3 p{
+    margin-left: 85px;
+}
+.split3 h4{
+    margin-left: 85px;
+}
+
+.split4 h2{
+    margin-left: 85px;
+}
+.split4 p{
+    margin-left: 85px;
+}
+.split4 h4{
+    margin-left: 85px;
+}
+
+.konten2 a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(52, 110, 187);
+}
+
+.konten2{
+    background-image: url(grey.png);
+    margin-left: 100px;
+    height: 530px;
+    width: 1700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text1{
+    padding-top: 200px;
+    padding-left: 120px;
+}
+
+.split5 h2{
+    margin-left: 85px;
+}
+.split5 p{
+    margin-left: 85px;
+}
+.split5 a{
+    margin-left: 85px;
+    text-decoration: none;
+    color: black;
+}
+
+.split6 h2{
+    margin-left: 85px;
+}
+.split6 p{
+    margin-left: 85px;
+}
+.split6 a{
+    margin-left: 85px;
+    text-decoration: none;
+    color: black;
+}
+
+.split7 h2{
+    margin-left: 85px;
+}
+.split7 p{
+    margin-left: 85px;
+}
+.split7 a{
+    margin-left: 85px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.split8 h2{
+    margin-left: 85px;
+}
+.split8 p{
+    margin-left: 85px;
+}
+.split8 a{
+    margin-left: 85px;
+    text-decoration: none;
+    color: black;
+}
+
+.footer .container{
+    background-color: rgb(235, 235, 235);
+    display: flex;
+}
+
+.footer1 a{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.footer ul li{
+    color: rgb(235, 235, 235);
+    padding: 5px;
+    margin-left: 80px;
+}
+
+.footer1 h3{
+    margin-left: 130px;
+    margin-top: ;
+}
+
+.footer2 h3{
+    margin-left: 128px;
+}
+.footer3 h3{
+    margin-left: 128px;
+}
+.footer4 h3{
+    margin-left: 128px;
+}
+.footer5 h3{
+    margin-left: 128px;
+}
+.footer6 h3{
+    margin-left: 128px;
+}
